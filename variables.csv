@@ -1,0 +1,63 @@
+Dataset_Description,Variable_Name,Variable_Description
+LabCholesterolTotal,SEQN,Participant Identification Number
+LabCholesterolTotal,LBXTC,Total Cholesterol Level
+FastingQuestionairre,PHAFSTHR,Hours Fasted for labs
+Demographics,RIAGENDR,Gender
+Demographics,RIDRETH3,Race
+Demographics,RIDAGEYR,Age
+BodyMeasuresExamination,BMXWT,Weight
+BodyMeasuresExamination,BMXHT,Height
+BodyMeasuresExamination,BMXBMI,BMI
+BloodPressureExaminationData,BPXSY1,Systolic1
+BloodPressureExaminationData,BPXSY2,Systolic2
+BloodPressureExaminationData,BPXSY3,Systolic3
+BloodPressureExaminationData,BPXSY4,Systolic4
+BloodPressureExaminationData,BPXDI1,Diastolic1
+BloodPressureExaminationData,BPXDI2,Diastolic2
+BloodPressureExaminationData,BPXDI3,Diastolic3
+BloodPressureExaminationData,BPXDI4,Diastolic4
+BloodPressureExaminationData,BPXPLS,Resting Pulse
+BloodPressureExaminationData,BPXPULS,Irregular Pulse
+FirstDayNutrients,DR1TKCAL,Calories
+FirstDayNutrients,DR1TPROT,Protein
+FirstDayNutrients,DR1TCARB,Carbohydrates
+FirstDayNutrients,DR1TSUGR,Total sugars
+FirstDayNutrients,DR1TFIBE,Dietary fiber
+FirstDayNutrients,DR1TTFAT,Total fat
+FirstDayNutrients,DR1TSFAT,Total saturated fat
+FirstDayNutrients,DR1TMFAT,Total monounsaturated fatty acids
+FirstDayNutrients,DR1TPFAT,Total polyunsaturated fatty acid
+FirstDayNutrients,DR1TCHOL,Cholesterol
+FirstDayNutrients,DR1TSODI,Sodium
+FirstDayNutrients,DR1TVD,Vitamin D
+FirstDayNutrients,DR1TCALC,Calcium
+FirstDayNutrients,DR1TIRON,Iron
+FirstDayNutrients,DR1TPOTA,Potassium
+FirstDayNutrients,DR1_300,How much does the amount of food you ate compare
+BloodPressureCholesterolQuestionaire,BPQ020,Ever been told you have high blood pressure
+BloodPressureCholesterolQuestionaire,BPQ040A,Have you ever been told to take medication for high blood pressure
+BloodPressureCholesterolQuestionaire,BPQ050A,Now taking medication for high blood pressure
+BloodPressureCholesterolQuestionaire,BPQ080,Ever been told you have high cholesterol
+BloodPressureCholesterolQuestionaire,BPQ090D,Told to take medication for high cholesterol
+BloodPressureCholesterolQuestionaire,BPQ100D,Now taking prescription medication for cholesterol
+Diabetes,DIQ010,Ever been told you have diabetes
+KidneyConditions,KIQ022,Ever told you have weak or failing kidneys
+OtherMedicalConditions,MCQ160M,Ever been told you have thyroid problems
+OtherMedicalConditions,MCQ170M,Do you still have thyroid problems
+RecentTobaccoUse,SMQ681,Use tobacco problems in the last 5 days
+PhysicalActivity,PAQ605,Vigorous activity at work
+PhysicalActivity,PAQ610,Number of days of vigorous work
+PhysicalActivity,PAD615,Minutes of vigorous work
+PhysicalActivity,PAQ620,Moderate work activity
+PhysicalActivity,PAQ625,Number of days of moderate work activity
+PhysicalActivity,PAD630,Minutes of moderate work activity
+PhysicalActivity,PAQ650,Vigorous recreational activity
+PhysicalActivity,PAQ655,Days vigorous recreational activity
+PhysicalActivity,PAD660,Minutes of vigorous recreational activity
+PhysicalActivity,PAQ665,Moderate recreational activity
+PhysicalActivity,PAQ670,Days of moderate recreational activity
+PhysicalActivity,PAD675,Minutes of moderate recreational activity
+AlcoholUse,ALQ110,Had at least 12 drinks in your lifetime
+AlcoholUse,ALQ120Q,Number of drinks in the past twelve months
+AlcoholUse,ALQ120U,Unit for number of drinks
+AlcoholUse,ALQ130,How many drinks per day
