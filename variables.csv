@@ -51,6 +51,7 @@ PhysicalActivity,PAD660,Minutes of vigorous recreational activity
 PhysicalActivity,PAQ665,Moderate recreational activity
 PhysicalActivity,PAQ670,Days of moderate recreational activity
 PhysicalActivity,PAD675,Minutes of moderate recreational activity
+AlcoholUse,ALQ101,Had at least 12 drinks in the past year
 AlcoholUse,ALQ110,Had at least 12 drinks in your lifetime
 AlcoholUse,ALQ120Q,Number of drinks in the past twelve months
 AlcoholUse,ALQ120U,Unit for number of drinks
