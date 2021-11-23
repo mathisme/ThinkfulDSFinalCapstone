@@ -45,6 +45,12 @@ KidneyConditions,KIQ022,Ever told you have weak or failing kidneys
 OtherMedicalConditions,MCQ160M,Ever been told you have thyroid problems
 OtherMedicalConditions,MCQ170M,Do you still have thyroid problems
 RecentTobaccoUse,SMQ681,Use tobacco problems in the last 5 days
+PhysicalActivity,PAQ605,Vigorous activity at work
+PhysicalActivity,PAQ610,Number of days of vigorous work
+PhysicalActivity,PAD615,Minutes of vigorous work
+PhysicalActivity,PAQ620,Moderate work activity
+PhysicalActivity,PAQ625,Number of days of moderate work activity
+PhysicalActivity,PAD630,Minutes of moderate work activity
 PhysicalActivity,PAQ650,Vigorous recreational activity
 PhysicalActivity,PAQ655,Days vigorous recreational activity
 PhysicalActivity,PAD660,Minutes of vigorous recreational activity
