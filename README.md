@@ -3,6 +3,13 @@ My final capstone project for Thinkful's Data Science Flex Program.  For this ca
 
 # Included in this repository
 
+* presentation.ppxt -- Powerpoint presentation, needs to be updated
+* files.csv -- the list of files used in the project
+* final.ipynb -- the project notebook
+* links.html -- just some references I wanted to keep while working on the project
+* variables.csv -- the initial variable list, used when creating the dataset
+* variables_final.csv -- the list of variables used in modeling
+
 # Steps
 
 # Discoveries/Reflections
