@@ -3,6 +3,7 @@ My final capstone project for Thinkful's Data Science Flex Program.  For this ca
 
 # Included in this repository
 
+* CapstoneResearchProposal.pdf -- initial research proposal
 * presentation.ppxt -- Powerpoint presentation, needs to be updated
 * files.csv -- the list of files used in the project
 * final.ipynb -- the project notebook
