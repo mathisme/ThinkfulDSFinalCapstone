@@ -11,10 +11,10 @@ My final capstone project for Thinkful's Data Science Flex Program.  For this ca
 * As the dataset contained over 100 files and over 1500 variables, I chose to use variables that could effect cholesterol level based on online research I have done.  It would be intereting to explore using other variables.
 
 # Tools used
-Pandas
-Matplotlib
-Scikit-learn
-Keras
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Keras
 
 # Tasks for the future
 I am planing to redo this project using bad cholesterol instead and so not listing future tasks.
